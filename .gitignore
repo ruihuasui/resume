@@ -1,4 +1,3 @@
-*.aux
-*.fls
+!resume.tex
+resume.*
 *.log
-*.fdb_latexmk
